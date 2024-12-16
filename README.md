@@ -6,5 +6,13 @@ Welcome to my e-portfolio, hosted on GitHub to showcase my journey as a Computer
 ## Linked Projects
 1. **[Bookstagram](https://github.com/huyn3195/Booknotes):**
     A platform that connects readers through book sharing and reviews.  
-   - **Tech Used:** PERN Stack, Redux, HTML, CSS, Botpress  
+   - **Tech Used:** PERN Stack, Redux, HTML, CSS, Botpress
+2. **[Water Usage Research](https://github.com/huyn3195/research-water):**
+       **[Website Link](https://projectdasc.vercel.app/):**
+       - **Tech Used:** Vercel, Next.js
+       - What we found out: St Thomas needs to cut down on their water use per number of weighted campus users, in order to maintain a high credit score and a sustainable institution
+3. **[Ecommerce](https://github.com/huyn3195/Ecommerce):**
+       - **Tech Used: ** Heroku, MERN Stack, Redux, Netlify
+   
+   
 
