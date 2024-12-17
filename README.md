@@ -12,7 +12,7 @@ Welcome to my e-portfolio, hosted on GitHub to showcase my journey as a Computer
        - **Tech Used:** Vercel, Next.js
        - What we found out: St Thomas needs to cut down on their water use per number of weighted campus users, in order to maintain a high credit score and a sustainable institution
 3. **[Ecommerce](https://github.com/huyn3195/Ecommerce):**
-       - **Tech Used: ** Heroku, MERN Stack, Redux, Netlify
+       - **Tech Used:**  Heroku, MERN Stack, Redux, Netlify
    
    
 
