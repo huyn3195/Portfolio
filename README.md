@@ -12,8 +12,11 @@ Welcome to my e-portfolio, hosted on GitHub to showcase my journey as a Computer
        - **Tech Used:** Vercel, Next.js
        - What we found out: St Thomas needs to cut down on their water use per number of weighted campus users, in order to maintain a high credit score and a sustainable institution
 3. **[Ecommerce](https://github.com/huyn3195/Ecommerce):**
-      A platform where user can transact, put on products and buy products. Payment will be processed through Paypal API
+      A platform where user can transact, put on products and buy products. Payment will be processed through Paypal API.
        - **Tech Used:**  Heroku, MERN Stack, Redux, Netlify
+4. **[ChatRoom](https://github.com/huyn3195/ChatRoom):**
+       An Android App that acts as a Whatsapp Clone user can connect with each other to chat, conversate
+       - **Tech Used:** Kotlin, Android Studio, Firebase
    
    
 
